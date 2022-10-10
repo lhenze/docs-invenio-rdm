@@ -21,6 +21,8 @@ If unsure, run `invenio-cli install` from inside the instance directory before e
     Make sure you have the latest `invenio-cli`, for InvenioRDM v10 the release is v1.0.8.
 
     ```bash
+    $ pip install --upgrade invenio-cli
+    ...
     $ invenio-cli --version
     invenio-cli, version 1.0.8
     ```
